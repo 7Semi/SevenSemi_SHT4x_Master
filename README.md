@@ -1,1 +1,1 @@
-# SevenSemi_SHT4x_Master
+# SevenSemi_SHT4x_Master version 1.0.0
